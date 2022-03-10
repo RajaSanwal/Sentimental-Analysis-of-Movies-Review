@@ -1,5 +1,6 @@
 # Sentimental-Analysis-of-Movies-Review
-Train LSTM, RNN, GRU model to predict either review of movie is positive or negative.
+Train LSTM, RNN, GRU model to predict either review of movie is positive or negative. Downaload dataset from following link
+https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 ![image](https://user-images.githubusercontent.com/43824565/157632063-f478dd9b-2afd-4b20-8faa-b745af8d8c15.png)
 
